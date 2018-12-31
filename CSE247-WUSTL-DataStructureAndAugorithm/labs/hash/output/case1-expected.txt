@@ -1,0 +1,14 @@
+M = 4
+CORPUS: 31 bases
+PATTERN: 29 bases
+MASK: 29 bases
+9 2 tacc
+9 16 tacc
+10 3 accc
+11 4 ccca
+14 9 atag
+15 10 tagg
+21 19 catt
+22 20 atta
+23 21 ttag
+27 3 accc

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="lecture"/>
+	<classpathentry kind="src" path="labs"/>
+	<classpathentry kind="src" path="studios"/>
+	<classpathentry kind="src" path="extensions"/>
+	<classpathentry kind="src" path="labsupport"/>
+	<classpathentry kind="src" path="coursesupport"/>
+	<classpathentry kind="lib" path="jars/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="jars/javacsv.jar"/>
+	<classpathentry kind="lib" path="jars/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

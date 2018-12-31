@@ -1,0 +1,36 @@
+Your TA's name:
+
+Students in your studio group:
+
+    Name        WUSTLKey (e.g. "jbuhler")
+	
+1.
+2.
+3.
+4.
+5.
+6.
+
+Below each question, type in your short, to-the-point answers.
+
+Question A1:
+
+Question A2:
+
+Question A3:
+
+Question B1:
+
+Question B2:
+
+Question B3:
+
+Question C1:
+
+Question C2:
+
+Question C3:
+
+Question C4:
+
+Question C5:
